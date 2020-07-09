@@ -1,0 +1,72 @@
+/* form{
+    background-color: aqua;
+    
+}
+
+form {
+    width: 80%;
+    margin: 0 auto;
+}
+
+label, input {
+    display: inline-block;
+}
+
+label {
+    width: 30%;
+    text-align: right;
+}
+
+label + input {
+    width: 10%;
+    margin: 0 30% 0 4%;
+}
+ */
+
+ /* input + textarea{
+     margin-left: 10px;
+ } */
+
+/* input[type="number"]{
+    margin-left: 2px;
+ } */
+
+ /* #btns{
+     margin: 5px;
+     background-color: #555; 
+     border: none;
+     color: white;
+     padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+ } */
+
+ div{
+   
+     text-align: center;
+ }
+
+ #heading{
+     text-align: center;
+     color: burlywood;
+     text-decoration: underline;
+ }
+
+ input{
+     width: 450px;
+    height: 30px;
+    padding: 10px;
+    }
+
+.btn1 {
+        background-color: #555; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
